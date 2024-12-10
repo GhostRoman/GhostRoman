@@ -35,6 +35,10 @@ URL: [https://github.com/GhostRoman/library](https://github.com/GhostRoman/libra
 Технологии: Vite + React, Node.js + Express, MongoDB, CSS, NodeMailer, Jsonwebtoken
 Описание: Создал примитивную библиотеку для демонстративной роботы технологий с возможностью регистрации пользователей, авторизации, отправки электронных писем, добавление новых книг.
 
+3. Rent Cars
+URL: [https://github.com/GhostRoman/Rent_cars](https://github.com/GhostRoman/Rent_cars)
+Технології: HTML, JavaScript, CSS
+Опис: Сайт для оренди автомобілів на чистому JavaScript з масивом даних та можливістю додавання нових авто.
 
 Сертификаты и Дополнительное обучение
 1. 
