@@ -34,4 +34,7 @@ URL: [https://github.com/GhostRoman/library](https://github.com/GhostRoman/libra
 Технологии: Vite + React, Node.js + Express, MongoDB, CSS, NodeMailer, Jsonwebtoken
 Описание: Создал примитивную библиотеку для демонстративной роботы технологий с возможностью регистрации пользователей, авторизации, отправки электронных писем, добавление новых книг.
 
-3. 
+
+Сертификаты и Дополнительное обучение
+1. 
+2. 
