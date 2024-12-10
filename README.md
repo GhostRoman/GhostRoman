@@ -10,7 +10,7 @@
 🟨 JavaScript 🟦 TypeScript 🟧 HTML 🎨 CSS
 
 🚀 Фреймворки и библиотеки: 
-⚛️ React 🌿 Node.js 🟣 Bootstrap 🅰️ Angular 🌀 TailwindCSS ⚡ Vite
+⚛️ React 🌿 Node.js 🟣 Bootstrap 🅰️ Angular 🌀 TailwindCSS ⚡ Vite 🛤️ Express
 
 🗄️ Базы данных:
 🍃 MongoDB 🐘 PostgreSQL
@@ -29,7 +29,10 @@ URL: https://full-stack-netflix-clone.onrender.com/
 Технологии: React, Node.js, MongoDB, TailwindCSS
 Описание: Создал полнофункциональный клон Netflix с возможностью регистрации пользователей, авторизации, просмотра фильмов. Реализовал API взаимодействия и интеграцию с внешними сервисами. Реализован функционал оплаты через Stripe.
 
-Проект 2 — краткое описание.
+2. Library
+URL: [https://github.com/GhostRoman/library](https://github.com/GhostRoman/library)
+Технологии: Vite + React, Node.js, MongoDB, CSS, NodeMailer, Jsonwebtoken
+Описание: Создал примитивную библиотеку для демонстративной роботы технологий с возможностью регистрации пользователей, авторизации, отправки электронных писем, добавление новых книг.
 
 <!---
 GhostRoman/GhostRoman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
