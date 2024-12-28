@@ -58,8 +58,7 @@
 
 Сертифікати та додаткове навчання
 
-1.
-2.
+Диплом: https://drive.google.com/file/d/1hRGb2i0duIJ1Wvfgv5sZgf7Tt2MHbRy9/view?usp=sharing
 
 <br>
 
@@ -125,8 +124,7 @@ Description: Car rental website in pure JavaScript with a data array and the abi
 
 Certificates and Additional Training
 
-1.
-2.
+Diploma: https://drive.google.com/file/d/1hXPyyv8F_pFsdQzQA7XnzztEm3_5CZ50/view?usp=sharing
 
 <br>
 
