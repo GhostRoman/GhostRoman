@@ -24,7 +24,7 @@
 
 📧 Email: marchenkoroma3@gmail.com
 
-🌐 LinkedIn: https://www.linkedin.com/in/роман-марченко-55a140202/
+🌐 LinkedIn: https://www.linkedin.com/in/romanmarchenko
 
 <br>
 
@@ -90,7 +90,7 @@ English Version:
 
 📧 Email: marchenkoroma3@gmail.com
 
-🌐 LinkedIn: https://www.linkedin.com/in/роман-марченко-55a140202/
+🌐 LinkedIn: https://www.linkedin.com/in/romanmarchenko
 
 <br>
 
