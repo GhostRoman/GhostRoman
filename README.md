@@ -18,6 +18,7 @@
 
 🛠️ Інструменти: 🎨 Figma 🐳 Docker 📦 Prisma 🌐 Render
 
+Рівень знання англійської мови: "Basic" (A2)
 <br>
 
 📫 Як зв'язатися зі мною
@@ -84,6 +85,7 @@ English Version:
 
 🛠️ Tools: 🎨 Figma 🐳 Docker 📦 Prisma 🌐 Render
 
+English language proficiency level: "Basic" (A2)
 <br>
 
 📫 How to Contact Me
