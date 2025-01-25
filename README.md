@@ -12,13 +12,26 @@
 
 💻 Мови: 🟨 JavaScript 🟦 TypeScript 🟧 HTML 🎨 CSS
 
-🚀 Фреймворки та бібліотеки: ⚛️ React 🌿 Node.js🟣 Bootstrap 🅰️ Angular 🌀 TailwindCSS ⚡ Vite 🛤️ Express
+🚀 Фреймворки та бібліотеки: ⚛️ React 🌿 Node.js🟣 Bootstrap 🌀 TailwindCSS ⚡ Vite 🛤️ Express
 
 🗄️ Бази даних: 🍃 MongoDB 🐘 PostgreSQL
 
-🛠️ Інструменти: 🎨 Figma 🐳 Docker 📦 Prisma 🌐 Render
+🛠️ Інструменти: 🎨 Figma 🐳 Docker 🌐 Render 💳 Stripe 🚀 Postman
 
-Рівень знання англійської мови: "Basic" (A2)
+<br>
+
+🏛️ Освіта
+
+Рівень освіти: Вища
+
+Назва навчального закладу: Приватний заклад вищої освіти "ІТ СТЕП"
+
+Факультет/спецiальнiсть: FullStack
+
+Рік закінчення: 2024
+
+🟡 Рівень знання англійської мови: 📘 "Basic" (A2)
+
 <br>
 
 📫 Як зв'язатися зі мною
@@ -79,13 +92,26 @@ English Version:
 
 💻 Languages: 🟨 JavaScript 🟦 TypeScript 🟧 HTML 🎨 CSS
 
-🚀 Frameworks and Libraries: ⚛️ React 🌿 Node.js🟣 Bootstrap 🅰️ Angular 🌀 TailwindCSS ⚡ Vite 🛤️ Express
+🚀 Frameworks and Libraries: ⚛️ React 🌿 Node.js🟣 Bootstrap 🌀 TailwindCSS ⚡ Vite 🛤️ Express
 
 🗄️ Databases: 🍃 MongoDB 🐘 PostgreSQL
 
-🛠️ Tools: 🎨 Figma 🐳 Docker 📦 Prisma 🌐 Render
+🛠️ Tools: 🎨 Figma 🐳 Docker 🌐 Render 💳 Stripe 🚀 Postman
 
-English language proficiency level: "Basic" (A2)
+<br>
+
+🏛️ Education
+
+Level of Education: Higher
+
+Institution Name: Private Higher Education Institution "IT STEP"
+
+Faculty/Specialization: FullStack
+
+Year of Graduation: 2024
+
+🟡 English Proficiency Level: 📘 "Basic" (A2)
+
 <br>
 
 📫 How to Contact Me
