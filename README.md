@@ -1,6 +1,6 @@
 Українська Версiя:
 
-✨ Про мене: Junior Full-Stack Developer.
+✨ Про мене: Full-Stack Developer.
 
 🌟 Моя мета: Постійно вивчати нові технології та вдосконалюватися.
 
@@ -67,7 +67,7 @@ English Version:
 
 <br>
 
-✨ About Me: Junior Full-Stack Developer.
+✨ About Me: Full-Stack Developer.
 
 🌟 My Goal: Constantly learning new technologies and improving myself.
 
